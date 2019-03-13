@@ -1,3 +1,3 @@
 Aquest és el text inicial d'aquest arxiu de prova.
 Canvis per comprovar que tot funciona!
-Nou canvi a l'arxiu del master.
+Ara faig canvis però només en la branca "branch1"
