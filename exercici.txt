@@ -1,2 +1,3 @@
 Squest és el text inicial d'aquest arxiu de prova.
 Canvis per comprovar que tot funciona!
+Ara faig canvis però només en la branca "branch1"
